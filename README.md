@@ -8,11 +8,10 @@ This repository contains all the notes i've written in learning to become a Data
 ## Theory and Notes:
 
 
-See the folders for the specific field of Data Science, which is of interestfor a pdf of the theory and notes on Time Series modelling with (ARIMA, SARIMA, GARCH, ARCH).
+See the folders for the specific field of theory within the field of Data Science. 
 
-<div class="alert alert-info">
-  A simple info alert—check it out!
-</div>
+
+*Note some of the notes may overlap or methods placed in different places as many of these topics do overlap*
 
 ## Future Implemtations:
 
